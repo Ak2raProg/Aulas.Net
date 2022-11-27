@@ -1,0 +1,23 @@
+.NET Framework 4.6 → WPF, Windows Forms & ASP.NET(4&5)
+
+.NET Core 5 → ASP.NET 5, Universal Windows Apps
+
+Versões .Net Framework
+
+1.0 → 2002
+↓
+4.8 → 2019 (Última versão que haverá)
+
+
+
+Versões .Net Core
+
+.NET Core 1.0 → 2016
+↓
+.Net 7 → Nov 2022
+
+Links: 
+https://pt.wikipedia.org/wiki/.NET_Framework
+https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core
+https://docs.microsoft.com/pt-br/dotnet/core/get-started
+

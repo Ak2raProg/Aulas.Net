@@ -1,0 +1,39 @@
+Linguagem de Alto Nível - Linguagem escrita em Código Fonte.
+
+Linguagem de Baixo Nível - Linguagem de máquina com muito pouca abstração, tornando o entendimento mais difícil.
+
+Hello world em C#(Alto Nível):
+
+→ Console.WriteLine("Hello, world");
+
+
+Hello World em Assembly (Baixo Nível) :
+
+→ 	global  _main
+	extern  _printf
+
+	section  .text
+_main:
+	push  message
+	call  _printf
+	add  esp, 4
+	ret
+message:
+	db  'Hello, world', 10, 0
+
+
+Alto Nível → Analisador Léxico → Analisador Sintáxico → Gerador de Código Intermediário → Otimizador de Código → Gerador de Código → Baixo Nível
+
+https://www.guru99.com/compiler-design-phases-of-compiler.html
+
+https://freecontent.manning.com/how-is-c-compiled
+
+Compilador do .NET
+
+=============================================================================================================================
+||  //-----------Compile---Time---------------------------------////----------------Runtime----------------------------//  ||
+||  Código em C# (MyProgram.cs) → C# Compiler → Código IL (MyProgram.exe + MyProgram.dll) → JIT Compiler → Código Nativo   ||
+||  //-----------Compile---Time---------------------------------////----------------Runtime----------------------------//  ||
+=============================================================================================================================
+
+* O JIT Compiler adequa o Intermediate Language(IL) code para a plataforma em que vai ser executada.

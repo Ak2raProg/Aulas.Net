@@ -1,0 +1,23 @@
+Historia do .Net
+
+.Net → Final anos 90 com objetivo de competir com o Java.
+
+Após uma tentativa barrada de fazer uma versão java exclusiva para windows o .net foi criado.
+
+2002 - .Net 1.0 launch
+
+2014 - .NetCore 1.0 launch (1º versão Multiplataforma) - .Net original ficou conhecido como .Net Framework
+
+2016 - .NET Standard 1.0 (Padronização que garante a funcionalidade multiplataforma)
+
+2018 - Github adquirido pela Microsoft
+
+2020 - .Net 5 → Continuação do .NetCore
+
+2021 - .Net 6 → Versão Atual
+
+Links: https://www.scalablepath.com/dot-net/microsoft-dot-net-framework
+
+https://www.quora.com/Why-was-C-developed-when-a-object-oriented-progamming-language-like-C++-already-existed
+
+https://docs.microsoft.com/pt-br/dotnet/core/introduction

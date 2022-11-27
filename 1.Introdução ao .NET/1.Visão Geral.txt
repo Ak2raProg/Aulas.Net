@@ -1,0 +1,14 @@
+.Net = Plataforma de desenvolvimento
+
+Desktop - WPF, Windows Form, UWP
+Web - ASP.NET
+Cloud - Azure
+Mobile - Xamarin
+Gaming - Unity
+IoT - ARM32, ARM64
+AI - ML.NET, .NET for Apache Spark
+
+Linguagens - C#, F# e Visual Basic
+
+.NET → Multiplataforma
+.NET Framework → Windows
