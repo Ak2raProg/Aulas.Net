@@ -12,7 +12,7 @@ namespace _3._Sintaxe_e_Tipos_de_dados_em_C_.Models
         
         public void Apresentar()
         {
-            Console.WriteLine($"Olá, meu nome é {Nome} e tenho {Idade} Anos.");
+            Console.WriteLine($"Olá\nMeu nome é {Nome} e tenho {Idade} Anos.");
         }
     }
 }
