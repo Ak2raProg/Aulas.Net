@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace _3._Sintaxe_e_Tipos_de_dados_em_C_.Models
+namespace _3_Sintaxe_e_Tipos_de_dados_em_C_.Models
 {
-    public class Calculadora
+     public class Calculadora
     {
         public void Somar(int x, int y)
         {

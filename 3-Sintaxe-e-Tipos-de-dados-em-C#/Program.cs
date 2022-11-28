@@ -1,4 +1,8 @@
-﻿ using _3._Sintaxe_e_Tipos_de_dados_em_C_.Models;
+﻿ using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+ using _3_Sintaxe_e_Tipos_de_dados_em_C_.Models;
 
 string opcao;
 
