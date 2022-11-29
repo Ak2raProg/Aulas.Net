@@ -3,18 +3,30 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace _3_Sintaxe_e_Tipos_de_dados_em_C_.Models
+namespace _3_Sintaxe_e_Tipos_de_dados_em_C_.Commons.Models
 {
      public class Calculadora
     {
+        /// <summary>
+        /// Realiza uma soma de dois números.
+        /// </summary>
+        /// <param name="x">Um número inteiro para somar.</param>
+        /// <param name="y">Um número inteiro para somar.</param>
         public void Somar(int x, int y)
         {
             Console.WriteLine($"{x} + {y} = {x + y}");
         }
 
-        public void Subtrair(int x, int y)
+        /// <summary>
+        /// Realiza a subtração de dois números
+        /// </summary>
+        /// <param name="x">Um número inteiro para subtrair</param>
+        /// <param name="y">Um número inteiro para subtrair</param>
+        /// <returns>Retorna a subtração de x e y</returns>
+        public int Subtrair(int x, int y)
         {
             Console.WriteLine($"{x} - {y} = {x - y}");
+            return x - y;
         }
 
         public void Multiplicar(int x, int y)

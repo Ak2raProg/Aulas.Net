@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\DIO\\Aulas.Net\\3-Sintaxe-e-Tipos-de-dados-em-C#\\3-Sintaxe-e-Tipos-de-dados-em-C#.csproj": {}
+    "C:\\Workspace\\DIO\\Aulas.Net\\3-Sintaxe-e-Tipos-de-dados-em-C#\\Commons\\Commons.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\DIO\\Aulas.Net\\3-Sintaxe-e-Tipos-de-dados-em-C#\\3-Sintaxe-e-Tipos-de-dados-em-C#.csproj": {
+    "C:\\Workspace\\DIO\\Aulas.Net\\3-Sintaxe-e-Tipos-de-dados-em-C#\\Commons\\Commons.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\DIO\\Aulas.Net\\3-Sintaxe-e-Tipos-de-dados-em-C#\\3-Sintaxe-e-Tipos-de-dados-em-C#.csproj",
-        "projectName": "3-Sintaxe-e-Tipos-de-dados-em-C#",
-        "projectPath": "C:\\Workspace\\DIO\\Aulas.Net\\3-Sintaxe-e-Tipos-de-dados-em-C#\\3-Sintaxe-e-Tipos-de-dados-em-C#.csproj",
+        "projectUniqueName": "C:\\Workspace\\DIO\\Aulas.Net\\3-Sintaxe-e-Tipos-de-dados-em-C#\\Commons\\Commons.csproj",
+        "projectName": "Commons",
+        "projectPath": "C:\\Workspace\\DIO\\Aulas.Net\\3-Sintaxe-e-Tipos-de-dados-em-C#\\Commons\\Commons.csproj",
         "packagesPath": "C:\\Users\\CWPP\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\DIO\\Aulas.Net\\3-Sintaxe-e-Tipos-de-dados-em-C#\\obj\\",
+        "outputPath": "C:\\Workspace\\DIO\\Aulas.Net\\3-Sintaxe-e-Tipos-de-dados-em-C#\\Commons\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CWPP\\AppData\\Roaming\\NuGet\\NuGet.Config",
