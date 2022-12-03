@@ -4,29 +4,72 @@ using System.Linq;
 using System.Threading.Tasks;
 using _3_Sintaxe_e_Tipos_de_dados_em_C_.Commons.Models;
 
+
+int qt = int.Parse(Console.ReadLine());
+// TODO: Crie as outras condições necessárias para a resolução do desafio:
+        for (int i = 0; i < qt; i++                 )
+        {
+            string[] v = new string[2] {"1", "2"};
+
+            string a = v[0];
+            string b = v[1];
+            
+            Console.WriteLine(a);
+            Console.WriteLine(b);
+            
+            int aLength = a.Length;
+            int bLength = b.Length;
+            
+            bool contain = a.Contains(b);
+            
+            if (   aLength < bLength               )
+                Console.WriteLine("nao encaixa");
+            else if (  contain                              )
+                Console.WriteLine("encaixa");
+            else
+                Console.WriteLine("nao encaixa");
+
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //Comentários
 
 // Single line
 
-/*  
-    Multi
-    Line
-*/
+// /*  
+//     Multi
+//     Line
+// */
 
-///<summary>
-/// Utilizado para comentar em uma classe, assim exibindo um texto explicativo ao hoverar com o mouse sobre um método/Instância.
-///<summary>
+// ///<summary>
+// /// Utilizado para comentar em uma classe, assim exibindo um texto explicativo ao hoverar com o mouse sobre um método/Instância.
+// ///<summary>
 
-Pessoa bob = new Pessoa();
+// Pessoa bob = new Pessoa();
 
-bob.Idade = 19;
-bob.Nome = "José";
-bob.Apresentar();
+// bob.Idade = 19;
+// bob.Nome = "José";
+// bob.Apresentar();
 
-Calculadora c = new Calculadora();
-c.Somar(3, 4);
-int sub = c.Subtrair(3, 2);
-Console.WriteLine(sub);
+// Calculadora c = new Calculadora();
+// c.Somar(3, 4);
+// int sub = c.Subtrair(3, 2);
+// Console.WriteLine(sub);
 
 
 

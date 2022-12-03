@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = _3_Sintaxe_e_Tipos_de_dados_em_C_
-build_property.ProjectDir = c:\Workspace\DIO\Aulas.Net\3-Sintaxe-e-Tipos-de-dados-em-C#\Fundamentals\
+build_property.RootNamespace = FundamentosMetodos
+build_property.ProjectDir = C:\Workspace\DIO\Aulas.Net\Propriedades_Métodos_e_Construtores\FundamentosMetodos\

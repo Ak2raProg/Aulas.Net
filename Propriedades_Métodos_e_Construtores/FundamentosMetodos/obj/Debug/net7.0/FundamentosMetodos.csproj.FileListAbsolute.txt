@@ -1,0 +1,17 @@
+C:\Workspace\DIO\Aulas.Net\Propriedades_Métodos_e_Construtores\FundamentosMetodos\bin\Debug\net7.0\FundamentosMetodos.exe
+C:\Workspace\DIO\Aulas.Net\Propriedades_Métodos_e_Construtores\FundamentosMetodos\bin\Debug\net7.0\FundamentosMetodos.deps.json
+C:\Workspace\DIO\Aulas.Net\Propriedades_Métodos_e_Construtores\FundamentosMetodos\bin\Debug\net7.0\FundamentosMetodos.runtimeconfig.json
+C:\Workspace\DIO\Aulas.Net\Propriedades_Métodos_e_Construtores\FundamentosMetodos\bin\Debug\net7.0\FundamentosMetodos.dll
+C:\Workspace\DIO\Aulas.Net\Propriedades_Métodos_e_Construtores\FundamentosMetodos\bin\Debug\net7.0\FundamentosMetodos.pdb
+C:\Workspace\DIO\Aulas.Net\Propriedades_Métodos_e_Construtores\FundamentosMetodos\obj\Debug\net7.0\FundamentosMetodos.csproj.AssemblyReference.cache
+C:\Workspace\DIO\Aulas.Net\Propriedades_Métodos_e_Construtores\FundamentosMetodos\obj\Debug\net7.0\FundamentosMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\DIO\Aulas.Net\Propriedades_Métodos_e_Construtores\FundamentosMetodos\obj\Debug\net7.0\FundamentosMetodos.AssemblyInfoInputs.cache
+C:\Workspace\DIO\Aulas.Net\Propriedades_Métodos_e_Construtores\FundamentosMetodos\obj\Debug\net7.0\FundamentosMetodos.AssemblyInfo.cs
+C:\Workspace\DIO\Aulas.Net\Propriedades_Métodos_e_Construtores\FundamentosMetodos\obj\Debug\net7.0\FundamentosMetodos.csproj.CoreCompileInputs.cache
+C:\Workspace\DIO\Aulas.Net\Propriedades_Métodos_e_Construtores\FundamentosMetodos\obj\Debug\net7.0\FundamentosMetodos.dll
+C:\Workspace\DIO\Aulas.Net\Propriedades_Métodos_e_Construtores\FundamentosMetodos\obj\Debug\net7.0\refint\FundamentosMetodos.dll
+C:\Workspace\DIO\Aulas.Net\Propriedades_Métodos_e_Construtores\FundamentosMetodos\obj\Debug\net7.0\FundamentosMetodos.pdb
+C:\Workspace\DIO\Aulas.Net\Propriedades_Métodos_e_Construtores\FundamentosMetodos\obj\Debug\net7.0\FundamentosMetodos.genruntimeconfig.cache
+C:\Workspace\DIO\Aulas.Net\Propriedades_Métodos_e_Construtores\FundamentosMetodos\obj\Debug\net7.0\ref\FundamentosMetodos.dll
+C:\Workspace\DIO\Aulas.Net\Propriedades_Métodos_e_Construtores\FundamentosMetodos\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Workspace\DIO\Aulas.Net\Propriedades_Métodos_e_Construtores\FundamentosMetodos\obj\Debug\net7.0\FundamentosMetodos.csproj.CopyComplete
